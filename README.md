@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Wallabhulearning!
+# 👋 Hi, I'm Wallabh Umrekar !
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wallabhulearning&color=blue)
 
