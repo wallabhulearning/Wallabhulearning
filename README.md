@@ -68,7 +68,7 @@
 
 * Designed 50+ test cases for login, signup, and dashboard flows
 * Covered positive, negative, and edge scenarios
-* 📂 Repo: https://github.com/wallabhulearning/test-case-suite *(create this repo)*
+* 📂 Repo: https://github.com/wallabhulearning/test-case-suite
 
 ---
 
@@ -76,7 +76,7 @@
 
 * Built Postman collections for CRUD APIs
 * Added environment variables & basic assertions
-* 📂 Repo: https://github.com/wallabhulearning/api-testing-postman *(create this repo)*
+* 📂 Repo: https://github.com/wallabhulearning/api-testing-postman
 
 ---
 
@@ -84,7 +84,7 @@
 
 * Documented real-world bug reports with severity & priority
 * Included reproducible steps and expected vs actual results
-* 📂 Repo: https://github.com/wallabhulearning/bug-reports *(create this repo)*
+* 📂 Repo: https://github.com/wallabhulearning/bug-reports 
 
 ---
 
